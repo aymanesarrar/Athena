@@ -38,7 +38,7 @@ Data structures and algorithms are necessary to write understandable and maintai
 | Book | Description |
 | ---- | ----------- |
 | **Clean Code** | most popular book among developers and will help us improve readability and testability of your code, which makes a good programmer a good programmer. |
-| **Pragmatic Programmer** | time is money, this book will help you do your job in the most pragmatic way saving time (it's good for beginners). |
+| **Pragmatic Programmer** | time is money, this book will help you be a better valuable programmer, a pragmatic programmer who value his work, responsible of his code and getting a better understanding of the philosophy of being a good programmer. |
 | **Code Complete: a Practical Handbook of Software Construction** | a nice addition to The Pragmatic Programmer, gives you the necessary framework to talk about code. |
 | **Design Patterns: Elements of Reusable Object-Oriented Software** | this is an introduction to follow patterns that all programmers are familiar with. |
 | **Refactoring** | your code isn't perfect ? let's make it better and better. |
